@@ -1,3 +1,3 @@
----?color=#81BEF7
+---?color=#5EC3FD
 
-# @size[3.5](삼청교육대)
+# @size[20px](삼청교육대)
