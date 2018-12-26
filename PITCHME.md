@@ -1,13 +1,3 @@
-# @size[3.5](abcd)
+---?color=#81BEF7
 
-+++
-
-## Hola!
-
----
-
-## Goodbye!
-
-+++
-
-## Adios!
+# @size[3.5](삼청교육대)
